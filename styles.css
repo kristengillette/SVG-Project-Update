@@ -14,10 +14,13 @@ body {
 	height: 120px;
 }
 
-.logo-text {
+.logo-text-color {
 	display: none;
 }
 
+.logo-text {
+	color: #EAAA7F;
+}
 .logo-text-color, .fawn-corgi-fur{
 	fill:#EAAA7F;
 }
@@ -159,12 +162,13 @@ footer {
   color: #ba8058;
 }
 
-@media (max-width: 420px) {
-	.logo {
-		display: none;
-	}
+@media (min-width: 420px) {
+.logo-text {
+	display: none;
+}
 
-	.logo-text {
-		display: block;
-	}
+.logo-text-color {
+	display: block;
+}
+
 }
