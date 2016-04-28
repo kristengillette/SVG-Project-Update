@@ -1,3 +1,9 @@
 # SVG-Project-Update
 
-Use at least 1 of the supplied APIs to grab data from at least 6 items from that API. For example, 6 books on Open Library, or 6 movies from the Open Movie Database. Display these items on a page in an attractive gallery of images or titles. Clicking the image or title, opens a lightbox just as in the Interactive Lightbox project earlier with detailed information about the item.
+Project created for <a href="http://www.teamtreehouse.com">Treehouse Tech Degree</a> program.
+
+In this project, I was given a website with rasterized images (PNG files) along with matching SVG files.I needed to replace the rasterized images and modernize the UI using the SVGs.
+
+Visit on the web at <a href="http://kristengillette.github.io/SVG-Project-Update/">SVG Project Update</a>
+
+
